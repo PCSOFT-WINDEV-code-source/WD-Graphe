@@ -1,0 +1,377 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Graphe
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Le projet a pour but de montrer les possibilités des différents graphes.
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Graphe
+    internal_properties : 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
+    configuration_id : 991825969427770849
+    type : 1
+    generation_name : WD Graphe.exe
+    version :
+     major_version : 21
+     generation_version : 2
+     internal_generation_version : 3
+    icon_filename : .\icone.ico
+    language : 1
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAADHUxQOtSbXO4Pj9hOC7juUn2FWn1zTh3KxCwMZWq6xv8mgQRiZYTi8DZaFT2S6v1ETT5GE5IZg8grIRA==
+ elements :
+  identifier : 0x4ac600b90021bcc0
+  elements :
+   -
+     name : FEN_NuagePoint
+     identifier : 0x492684ef0001fb03
+     internal_properties : CAAAAAgAAABt6UVZZtNbBNJYYC+O0OdrUcJ8fMpbarB2afyMAB//yWelIiEH+V8Sf6YQ6KhYIJB4+A==
+     physical_name : .\FEN_NuagePoint.wdw
+     type : 2
+   -
+     name : FEN_Entonnoir
+     identifier : 0x4ec1247c00218271
+     internal_properties : CAAAAAgAAACY9kBcaxAYw4/10bg/Mnp+qCV3P4WmkkKKWIgwioWPAffLwpGWas6D7FNNq2tlHZN9hQ==
+     physical_name : .\FEN_Entonnoir.wdw
+     type : 2
+   -
+     name : FEN_Courbe
+     identifier : 0x49243c0900042f3d
+     internal_properties : CAAAAAgAAAA/GxcLuOXN3ugS/lkYlKUV4+C+5tgRA0yq8DxMzENTvTeJ4vE1i+2gyXBqVt4S7uIqKg==
+     physical_name : .\FEN_Courbe.wdw
+     type : 2
+   -
+     name : FEN_Histogramme
+     identifier : 0x4924550e0005ebed
+     internal_properties : CAAAAAgAAADNSSV5RjN7pLL4gE9ug5dzoSCoMJCRa4xOywW7AQ4ExATMvwQnmf+y30awCIh4APDYWA==
+     physical_name : .\FEN_Histogramme.wdw
+     type : 2
+   -
+     name : FEN_Surface
+     identifier : 0x409bdeda0040f9df
+     internal_properties : CAAAAAgAAADVsT1hXjtzrLrQSJcmTE+7mfrUhDK7vUSuU9go5FuzdVuhhs1vUbfqBz64AIBwCPjAQA==
+     physical_name : .\FEN_Surface.wdw
+     type : 2
+   -
+     name : FEN_Patience
+     identifier : 0x409be3980042828f
+     internal_properties : CAAAAAgAAADlYc3R7oujvApgGMf2/jMn6fbcnE4/PudOCyZSmmWpb1GT9F/fIYc6V87IMPDgmAjwcA==
+     physical_name : .\FEN_Patience.wdw
+     type : 2
+   -
+     name : pGraphe
+     identifier : 0x492585e50001b56b
+     internal_properties : CAAAAAgAAAAvKwcbqNVdDthCbimI2eHZC7qCCjPZeNqrEuf+nJQG4mqKHSYF+10QeaAa5q4i3tI6Og==
+     physical_name : .\pGraphe.wdg
+     type : 7
+   -
+     name : FEN_Hemicycle
+     identifier : 0x49245a0900075f9a
+     internal_properties : CAAAAAgAAACwjug086gAGyddyRCnEoJmUD2fxw1+kIlWfejQmmUv8dcbclHu0jZrhLslkxPNtSuVnQ==
+     physical_name : .\FEN_Hemicycle.wdw
+     type : 2
+   -
+     name : FENMOD_Graphe
+     identifier : 0x4926c4140000a3d9
+     internal_properties : CAAAAAgAAAAoJhAMu+DI058FIWhPq2rWMKefNx/wLImv9DtFdbra1j6A6epGuh5TvGNdW9sV7eMtNQ==
+     physical_name : .\FENMOD_Graphe.wdt
+     type : 18
+   -
+     name : FEN_Secteur
+     identifier : 0x49245aaf0009eaf8
+     internal_properties : CAAAAAgAAADoZtDM+6AIE99FYSiP7LaiGEmnT3GScGZ2KQbyKMfNY1VNOCsG+l4TfKMdmxvVrSPtdQ==
+     physical_name : .\FEN_Secteur.wdw
+     type : 2
+   -
+     name : FEN_Donuts
+     identifier : 0x4924598500065dbf
+     internal_properties : CAAAAAgAAACTb8vf7FnRilTO+qVk2l21h9Aiwggh+J+uc57axklN49nXTAc5j+mc9SyWYiLemg72fg==
+     physical_name : .\FEN_Donuts.wdw
+     type : 2
+   -
+     name : FEN_Aire
+     identifier : 0x49245a5600088ed3
+     internal_properties : CAAAAAgAAABWPL7iwb72+UG7k/7NLOBInoOdzQMkkzR24SJeSMfV0yHtXHfIOJDFIhmDfQX7h3lDww==
+     physical_name : .\FEN_Aire.wdw
+     type : 2
+   -
+     name : FEN_Radar
+     identifier : 0x492684d600009a26
+     internal_properties : CAAAAAgAAADpZdE18q8HKDZsBMPyAo9r9aIo2Po7ut5L7UJ+vlFF2y2ngFPjJYM2U8o0jBTMtCTsdA==
+     physical_name : .\FEN_Radar.wdw
+     type : 2
+   -
+     name : FEN_Principale
+     identifier : 0x4924316f0003c6d5
+     internal_properties : CAAAAAgAAAABfXmtGkfvgE60nHt6u2NvrSx0rBzl1s6nPi2Lgb5cRLwUd+xbrQu+KxKMdDy0TLwEDA==
+     physical_name : .\FEN_Principale.wdw
+     type : 2
+   -
+     name : FEN_Bulle
+     identifier : 0x4ce41da40036edec
+     internal_properties : CAAAAAgAAABO1Kb6SXY+cXmjS5Y1R8Qk7uG9fUmaNVlLLQO9kY4O+vbUsZKgYLjtGgH7xU2Df3Fb2w==
+     physical_name : .\FEN_Bulle.wdw
+     type : 2
+   -
+     name : FEN_Waterfall
+     identifier : 0x42496da502a657f4
+     internal_properties : CAAAAAgAAAAEAmxIdyyEp7P51bwDRz4ShNvDmyP0w1OLNdcpAR7+CuLcraaSdtKH4EexD5dJMacREQ==
+     physical_name : .\FEN_Waterfall.wdw
+     type : 2
+   -
+     name : REQ_ReinitialiseGrapheSecteur
+     identifier : 0x427a214103165820
+     internal_properties : CAAAAAgAAAAZdcHF4l/X2OYc9FNip1uvpRQchE/TznZWvaN+mAqAYKAASwgzlfOmw3pkXCTcpBT8BA==
+     physical_name : .\REQ_ReinitialiseGrapheSecteur.WDR
+     type : 5
+   -
+     name : TEST_Principale
+     identifier : 0x442ac07d01afeffc
+     internal_properties : CAAAAAgAAABu9EZaaRYe0Z4k7B0ao35pEmFZMQKobjJzYGGM7CRwiHBSjmFd7FFzt2FbpW1jH5F7+w==
+     physical_name : .\TEST_Principale.wxt
+     type : 17
+   -
+     name : FEN_SecteurMultiniveau
+     identifier : 0x442ad3270118d8b6
+     internal_properties : CAAAAAgAAACb90NHZCGJkl3nIqb7Hay8G7rSCtIDQ6BDr19h7zDaXv4G7vovyk2m+iSeGppWIpZ+hg==
+     physical_name : .\FEN_SecteurMultiniveau.wdw
+     type : 2
+   -
+     name : FEN_Heatmap
+     identifier : 0x45ffd2ee01dc5ccc
+     internal_properties : CAAAAAgAAABHw6/zMG1FZnLSk3+LYZDKy07KkjY3+6xLpWkXoW6kZKh0FkaHcowGEwjyzlaKdmpS0g==
+     physical_name : .\FEN_Heatmap.wdw
+     type : 2
+   -
+     name : FEN_Histogramme_personnalisé
+     identifier : 0x47c5632901f0c964
+     internal_properties : CAAAAAgAAACLh/OXFFHZgkBMgIppI5uUJXZAIC7XU5VfuFR0WKfvAff1rZxRqNGWMRSOaiqmUkaOlg==
+     physical_name : .\FEN_Histogramme_personnalisé.wdw
+     type : 2
+   -
+     name : FEN_Composite
+     identifier : 0x47c56372020de7e3
+     internal_properties : CAAAAAgAAABDP7vv3Imhuhg0uKMKYGl/C3RWNgw9Vqe3WpYijrHtC/nnHtkxifm+adzGMvLuin5Gzg==
+     physical_name : .\FEN_Composite.wdw
+     type : 2
+   -
+     name : FEN_Courbe_SubSampling
+     identifier : 0x49e479ce06aefaa8
+     internal_properties : CAAAAAgAAACLh/OXFFHZgkJrmNX2adKmA3BupqgBULm/kOTkdNu7Vb8hiXE+yOarMxSOaiqmUkaOlg==
+     physical_name : .\FEN_Courbe_SubSampling.wdw
+     type : 2
+   -
+     name : FEN_Histogramme_agrégé
+     identifier : 0x49e471f7043b5a34
+     internal_properties : CAAAAAgAAADsasTQ75ScTxlWS1HnUdntQhVRcV3OBCWLOT+BzVJC/goQYAownIvWbt/ZJ+/hmQ/5eQ==
+     physical_name : .\FEN_Histogramme_agrégé.wdw
+     type : 2
+   -
+     name : FEN_NuageDePoints_3D
+     identifier : 0x4a0983880206ae16
+     internal_properties : CAAAAAgAAABzz6v/TDlxqovm9OV4R0xG1XIY2AorcHW3MhL2xklN03X/NfkK8Pin2Ey2AoJ+em5W3g==
+     physical_name : .\FEN_NuageDePoints_3D.wdw
+     type : 2
+   -
+     name : FEN_Pyramide
+     identifier : 0x4b4f6d5301c6f764
+     internal_properties : CAAAAAgAAADEQiwIt+zE5xvRWZcklC5ZWjmBmTnyc3BfCA3zq2SwGJBiJsEEPWYnqIdxT9cJ8efRUQ==
+     physical_name : .\FEN_Pyramide.wdw
+     type : 2
+   -
+     name : FEN_TempsRéel
+     identifier : 0x4b8e5a69010c237c
+     internal_properties : CAAAAAgAAAAfe3crmMVtfhDpFXiPhfsC66g27lCZ/5RLLdwk5Fu7ZZ+x7SbnGu9XsZAK9r4yzsIKCg==
+     physical_name : .\FEN_TempsRéel.wdw
+     type : 2
+   -
+     name : FEN_Histogramme_Comparatif
+     identifier : 0x4db1a0c301c1e6c8
+     internal_properties : CAAAAAgAAABi2FpOfSqCnc+pNtmAW+tDIJGflyn6S/1LjeaaMO8lm21Fh19drCdBED2nEZFPK51n7w==
+     physical_name : .\FEN_Histogramme_Comparatif.wdw
+     type : 2
+   -
+     name : FEN_Échelle_temporelle
+     identifier : 0x4f72032501017689
+     internal_properties : CAAAAAgAAABMyqTwT3Q8b4d0BbcYc4ukEnFpMYFK49V3auXb00zIMIhaM0O5AFWmVP/5x0+BeW9Z2Q==
+     physical_name : .\FEN_Échelle_temporelle.wdw
+     type : 2
+   -
+     name : FEN_Intervalle
+     identifier : 0x4f87008502d1c774
+     internal_properties : CAAAAAgAAACTb8vf7FnRivC2Ad5chsPer8IO5uo+tRKzs8o2LcLIGCzgUmV9RfAAASyWYiLemg72fg==
+     physical_name : .\FEN_Intervalle.wdw
+     type : 2
+   -
+     name : FEN_CirculaireDeProgrès
+     identifier : 0x40f835fa01c63857
+     internal_properties : CAAAAAgAAABBPbnt2oevQBtLCusV/Xw1NbDMLIHFJ8S2dX2wpEzOGtYKb1l+e5/yZNLMNPz0jHxEzA==
+     physical_name : .\FEN_CirculaireDeProgrès.wdw
+     type : 2
+   -
+     name : FEN_Polaire
+     identifier : 0x43568b73015f9865
+     internal_properties : CAAAAAgAAABLx7NXVBEZwoxFOupNPhTb5bYA4EKlZnGDvxWOrGevQbc1bio2g3DL7VROqmpmEoZO1g==
+     physical_name : .\FEN_Polaire.wdw
+     type : 2
+  other_elements : []
+  analysis : .\WD Graphe.ana\WD Graphe.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAACXkWJrH8T7zyMgtq8m3MVo7nVWRGJpNnYF0cPmeItR+6rl6whEJIIxcFX5q1bdwYAua/A9SZRR47Zy0Nl3q9a2Di6Yaw==
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Graphe
+     identifier : 0x4ac600b9002fbd3c
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    explorer_type : windows
+    children :
+     -
+       name : Types de graphe
+       explorer_type : custom_folder
+       children :
+        -
+          name : FEN_Courbe
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Histogramme
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Donuts
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Hemicycle
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Aire
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Secteur
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Radar
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_NuagePoint
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Bulle
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Entonnoir
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Surface
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Patience
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Waterfall
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_SecteurMultiniveau
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Heatmap
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Composite
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Histogramme_personnalisé
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Histogramme_agrégé
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Courbe_SubSampling
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_NuageDePoints_3D
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Pyramide
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_TempsRéel
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Histogramme_Comparatif
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Échelle_temporelle
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Intervalle
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_CirculaireDeProgrès
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Polaire
+          explorer_type : element
+          type : 2
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
